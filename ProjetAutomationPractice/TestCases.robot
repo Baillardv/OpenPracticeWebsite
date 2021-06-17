@@ -26,7 +26,7 @@ Login with invalid account
     Authentication should failed
 
     
-Purchase of 2 items
+Purchase  2 items
     [Tags]    Regression tests    Requirements P.1
     Initialise Email Data
     Login to my account
